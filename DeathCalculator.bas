@@ -14,11 +14,6 @@ PRINT "different academic studies."
 PRINT
 PRINT "This program is still in early stages and the author hopes to develop it"
 PRINT "further as more ressearch is made available and more factors are included."
-PRINT
-PRINT "The use of having a better estimate of time of death is rather unethical"
-PRINT "but has the potential to be extremely useful..."
-PRINT
-
 
 'Gender
 100 PRINT "What is your birth gender (m/f)?"
